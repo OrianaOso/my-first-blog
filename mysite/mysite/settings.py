@@ -108,7 +108,7 @@ LANGUAGE_CODE = 'en-us'
 
 #  America/Bogota
 
-TIME_ZONE = 'UTC -5'
+TIME_ZONE = 'America/Bogota'
 
 USE_I18N = True
 
